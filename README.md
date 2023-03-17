@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heisenworth
-- 👀 I’m interested in COD[E}
-- 🌱 I’m currently learning Warzone
+- 👀 I’m interested in COD[E]
+- 🌱 I’m currently learning
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
